@@ -1,0 +1,47 @@
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0;
+    box-shadow:5px 5px 5px gray;
+    border-radius:25px;
+    width:1000px;
+    margin-top:20px;
+    height:225px;
+}
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+    width:500px;
+    height:110px;
+}
+.heading_div2{
+    font-size:18px;
+}
+.result_para_tag{
+    box-shadow:5px 5px 5px gray;
+    font-size:20px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:gray;
+    line-height:3;
+    text-align:center;
+    margin-left:500px;
+    margin-bottom:5px;
+    border-radius:10px;
+    width:600px;
+    height:60px;
+    font-size:20px;    
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:10px 10px 10px lightblue;
+    margin-top:150px;
+}
